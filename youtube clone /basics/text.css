@@ -1,0 +1,64 @@
+p{
+    font-weight:light;
+    font-family:arial;
+}
+
+.Head{
+   
+    font-family: Arial;
+    font-weight:bold ;
+    font-size: large;
+    font-style: normal;
+    width: 300px;
+    line-height: 24px;
+    margin-bottom: 5px;
+}
+
+.views{
+   
+   font-family: arial;
+   font-weight: lighter;
+   font-size: 14px;
+   color: rgb(96, 96, 96);
+   margin-top: 0;
+
+
+}
+
+.auth{
+
+    font-family: arial;
+    font-size: 14px;
+    font-weight:lighter;
+    color:rgb(96, 96, 96);
+    margin-bottom: 14px;
+
+}
+.des{
+
+    font-family:arial;
+    font-size:14px;
+    font-weight:lighter;
+    color:rgb(96, 96, 96);
+    width: 280px;
+    margin-top:0;
+    line-height:22px;
+    
+}
+.rand{
+
+    font: size 14px;;
+    background-color:red;
+    color:white;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align:center;
+    margin-top: 100px; 
+    
+}
+span{
+    cursor: pointer;
+}
+span:hover{
+    text-decoration: underline;
+}
